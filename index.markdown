@@ -4,4 +4,3 @@
 
 layout: home
 ---
-![banner marrongiallo](marrongiallo_banner.png)
