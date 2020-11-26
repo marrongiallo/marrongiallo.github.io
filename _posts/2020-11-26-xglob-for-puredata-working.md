@@ -17,4 +17,4 @@ tested on linux (Ubuntu 20.10) with tcl Tk 8.6 and pd (vanilla) 0.51.1
 
 github: [xglob](https://github.com/marrongiallo/xglob)
 
-![xglob logo](/assets/xblog_logo.png)
+![xglob logo](/assets/xglob_logo.png)
