@@ -9,4 +9,4 @@ shotcanvas
 
 xglob
 
-[![logo xglob](xblog_logo.png)](https://github.com/marrongiallo/xglob)
+[![logo xglob](logo_xglob.png)](https://github.com/marrongiallo/xglob)
