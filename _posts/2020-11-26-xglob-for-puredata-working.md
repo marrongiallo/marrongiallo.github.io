@@ -15,6 +15,6 @@ The plugin starts a socket server. Due to the "vwait" statement, this plugin mus
 
 tested on linux (Ubuntu 20.10) with tcl Tk 8.6 and pd (vanilla) 0.51.1
 
-github: [shocanvas](https://github.com/marrongiallo/xglob)
+github: [xglob](https://github.com/marrongiallo/xglob)
 
 
