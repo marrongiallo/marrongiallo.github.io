@@ -3,7 +3,7 @@ layout: post
 title:  "xglob tested on linux is out"
 ---
 
-# shotcanvas
+# XGLOB
 
 From README file:
 
