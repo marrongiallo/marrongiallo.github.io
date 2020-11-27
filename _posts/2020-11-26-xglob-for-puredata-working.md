@@ -13,6 +13,6 @@ It is a gui socket server vritten in tcl Tk.
 
 tested on linux (Ubuntu 20.10) with tcl Tk 8.6 and pd (vanilla) 0.51.1
 
-github: [xglob](https://github.com/marrongiallo/glob-strip)
+github: [glob-strip](https://github.com/marrongiallo/glob-strip)
 
 ![glob-strip usage](/assets/glob-strip_screenshot.png)
