@@ -7,6 +7,6 @@ shotcanvas (pure data plugi)
 
 [![logo shotcanbas](logo_shotcanvas.png)](https://github.com/marrongiallo/shotcanvas)
 
-xglob (puredata plugin)
+glob-strip (a tcl gui script that run a server socket)
 
-[![logo xglob](logo_xglob.png)](https://github.com/marrongiallo/xglob)
+[![logo glob-strip](logo_glob-strip.png)](https://github.com/marrongiallo/glob-strip)
