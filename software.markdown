@@ -3,10 +3,10 @@ layout: page
 title: software
 permalink: /software/
 ---
-shotcanvas
+shotcanvas (pure data plugi)
 
 [![logo shotcanbas](logo_shotcanvas.png)](https://github.com/marrongiallo/shotcanvas)
 
-xglob
+xglob (puredata plugin)
 
 [![logo xglob](logo_xglob.png)](https://github.com/marrongiallo/xglob)

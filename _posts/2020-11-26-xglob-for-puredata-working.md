@@ -1,20 +1,18 @@
 ---
 layout: post
-title:  "xglob tested on linux is out"
+title:  "glob-strip tested on linux"
 ---
 
-# XGLOB
+# GLOB-STRIP
 
 From README file:
 
-xglob-plugin is a "pure data" (pd) plugin. Once installed, it allows you to obtain, via the "netsend" pd object, the list of files inside a folder.
+glob-strip is a standalone program designed to supply information to a pure data abstraction (information about files in the system, which can be used for managing playlists for example). 
 
-In this version of the program I can **only get the list of wav files**
-
-The plugin starts a socket server. Due to the "vwait" statement, this plugin must be the last one in the list of pure date plugins you installed. So if you need to rename the file.
+It is a gui socket server vritten in tcl Tk.
 
 tested on linux (Ubuntu 20.10) with tcl Tk 8.6 and pd (vanilla) 0.51.1
 
-github: [xglob](https://github.com/marrongiallo/xglob)
+github: [xglob](https://github.com/marrongiallo/glob-strip)
 
-![xglob usage](/assets/use_example_xglob_request.png)
+![xglob usage](/assets/glob-strip.png)
