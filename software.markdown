@@ -5,8 +5,8 @@ permalink: /software/
 ---
 shotcanvas (pure data plugin)
 
-[![logo shotcanbas](logo_shotcanvas.png)](https://github.com/marrongiallo/shotcanvas)
+[![logo shotcanbas](software/logo_shotcanvas.png)](https://github.com/marrongiallo/shotcanvas)
 
 glob-strip (a tcl socket server gui script)
 
-[![logo glob-strip](logo_glob-strip.png)](https://github.com/marrongiallo/glob-strip)
+[![logo glob-strip](software/logo_glob-strip.png)](https://github.com/marrongiallo/glob-strip)

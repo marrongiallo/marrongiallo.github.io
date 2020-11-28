@@ -7,4 +7,4 @@ permalink: /about/
 
 Lazzaro Nicolò Ciccolella
 
-![](laz.png)
+![](about/laz.png)

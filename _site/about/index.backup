@@ -42,13 +42,11 @@
   </header>
 
   <div class="post-content">
-    <blockquote>
-  <p>marrongiallo is a state of mind</p>
-</blockquote>
+    > marrongiallo is a state of mind
 
-<p>Lazzaro Nicolò Ciccolella</p>
+Lazzaro Nicolò Ciccolella
 
-<p><img src="laz.png" alt="" /></p>
+![](about/laz.png)
 
   </div>
 
