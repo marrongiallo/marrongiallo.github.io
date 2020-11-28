@@ -7,5 +7,4 @@ permalink: /about/
 
 Lazzaro Nicolò Ciccolella
 
-![Lazzaro Primo piano](laz.png)
-![Lazzaro](_site/about/laz.png)
+![](about/laz.png)
